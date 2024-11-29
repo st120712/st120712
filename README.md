@@ -1,16 +1,48 @@
-## Hi there 👋
+#  
 
-<!--
-**st120712/st120712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :hammer_and_wrench: Tech Stack
 
-Here are some ideas to get you started:
+### Platforms
+!Node.js
+!MySQL
+!MongoDB
+!React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+!Java
+!Python
+!HTML5
+!JavaScript
+
+### Machine Learning/AI Frameworks
+!TensorFlow
+!Keras
+
+### Tools 
+!Notion
+!Git
+!Visual Studio Code
+
+## :books: Currently Learning
+!Spring
+!Spring Boot
+
+## :computer: Algorithm Problem Solving
+
+[!Solved.ac Profile
+
+## :bar_chart: GitHub Stats
+
+!Inho GitHub stats
+## :star2: Top Languages
+
+!Top Langs
+
+## :mailbox: How to reach me
+
+[!Gmail
+[!Velog
+
+---
+
+:star:️ From dusen0528
