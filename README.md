@@ -129,7 +129,7 @@
 > **Spring 기반의 도메인 분리, DB 설계, 통신 방식, 보안까지 직접 고민하며 구축** 중입니다.
 >
 > 🛠️ Java, Spring Boot, Spring Security, MySQL, Docker  
-[🔗 Organization 링크](https://github.com/personal-blog-project)
+[🔗 Organization 링크](https://github.com/AlgoVisionDH))
 
 ---
 
